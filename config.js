@@ -13,7 +13,7 @@ module.exports = {
         },
         sourceType: 'module'
     },
-    plugins: ['react', 'import', 'jsx-a11y'],
+    plugins: ['react', 'import', 'jsx-a11y', 'jest'],
     rules: {
         strict: 0,
         'no-alert': 'error',
