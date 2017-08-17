@@ -1,6 +1,6 @@
 {
   "name": "eslint-config-malexandre",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "My custom eslint configuration",
   "main": "index.js",
   "author": "Marc ALEXANDRE (marc@malexandre.fr)",
